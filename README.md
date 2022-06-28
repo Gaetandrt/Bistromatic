@@ -18,17 +18,17 @@ Ce calculateur permet de faire des calculs avec des (), des nombres négatifs et
 
 Pour compiler ce projet, il vous suffit de vous rendre a la racine et de lancer la commande :
 
-    ```bash
-    make
-    ```
+```bash
+make
+```
 
 ## Utilisation
 
 Une fois le binaire généré, il vous suffit de le lancer grace a la commande suivante :
 
-    ```bash
-    echo [calcul] | ./calc [base] [opérateurs] [calcul_len]
-    ```
+```bash
+echo [calcul] | ./calc [base] [opérateurs] [calcul_len]
+```
 
 ## Fabriqué avec
 
